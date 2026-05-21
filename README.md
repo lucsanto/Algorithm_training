@@ -105,6 +105,8 @@ Given a string containing digits from `2` to `9`, the goal is to return all poss
 
 ---
 
+## 18. 4Sum
 
+Given an integer array and a target value, the goal is to find all unique quadruplets where the sum of the four numbers is equal to the target. The expected output is a list of quadruplets, without duplicate combinations. For example, for `nums = [1,0,-1,0,-2,2]` and `target = 0`, valid output would be `[[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]`.
 
 ---
