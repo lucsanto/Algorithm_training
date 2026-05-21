@@ -94,3 +94,17 @@ Given an array of strings, the goal is to find the longest prefix shared by all 
 Given an integer array, the goal is to find all unique triplets where the sum of the three numbers is equal to zero. The expected output is a list of triplets, without duplicate combinations. For example, for `nums = [-1,0,1,2,-1,-4]`, valid output would be `[[-1,-1,2],[-1,0,1]]`.
 
 ---
+
+## 16.
+
+---
+
+## 17. Letter Combinations of a Phone Number
+
+Given a string containing digits from `2` to `9`, the goal is to return all possible letter combinations that the number could represent based on the classic telephone keypad mapping. The expected output is a list of strings containing every possible combination. For example, for `digits = "23"`, valid output would be `["ad","ae","af","bd","be","bf","cd","ce","cf"]`.
+
+---
+
+
+
+---
