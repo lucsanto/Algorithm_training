@@ -95,7 +95,9 @@ Given an integer array, the goal is to find all unique triplets where the sum of
 
 ---
 
-## 16.
+## 16. 3Sum Closest
+
+Given an integer array and a target value, the goal is to find three numbers whose sum is closest to the target. The expected output is the sum of those three numbers. For example, for `nums = [-1,2,1,-4]` and `target = 1`, the closest sum is `2`, because `-1 + 2 + 1 = 2`.
 
 ---
 
